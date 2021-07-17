@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content{
+    width: 50%;
+    margin: auto;
+    background: #636360;
+    padding: 111px;
+}
+h1{
+
+color: #fff;
+
+font-size: 51px;
+
+text-align: center;
+
+margin-bottom: 52px;
+}
+span{
+    
+color: #acff61;
+}
+p{
+
+color: #fff;
+
+margin-bottom: 10px;
+
+font-size: 21px;
+
+line-height: 37px;
+}
+.img{
+
+text-align: center;
+}
+img{
+}
+.iframe{
+
+text-align: center;
+}
+h2{
+
+color: #fff;
+
+font-size: 43px;
+
+text-align: center;
+
+margin-top: 38px;
+
+margin-bottom: 53px;
+}
+h3{
+
+color: #fff;
+
+font-size: 43px;
+
+text-align: center;
+
+margin-top: 83px;
+
+margin-bottom: 53px;
+}
+h4{
+
+color: #fff;
+
+font-size: 43px;
+
+text-align: center;
+
+margin-top: 158px;
+
+letter-spacing: 11px;
+}
+mark{
+    font-size: 21px;
+    font-weight: 700;
+    padding: 2px 7px;
+}
+h5{
+    color: #fff;
+    font-size: 43px;
+    text-align: center;
+    margin-top: 83px;
+    margin-bottom: 54px;
+}
+.icons{
+
+color: #fff;
+
+font-size: 40px;
+
+display: flex;
+
+justify-content: space-between;
+
+width: 47%;
+
+margin: auto;
+}
+a{
+    color: #fff;
+}
+.icons i{
+    border-radius: 50%;
+    background: #7b7b7b;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    transition: .35s all ease-in-out;
+}
+.fa-youtube:hover{
+    background-color: rgb(255, 59, 59);
+    transform: rotate(360deg);
+}
+.fa-facebook-f:hover{
+    background-color: rgb(27, 97, 248);
+    transform: rotate(360deg);
+}
+.fa-twitter:hover{
+    background-color: rgb(0, 195, 255);
+    transform: rotate(360deg);
+}
+.fa-github-alt:hover{
+    background-color: rgb(27, 27, 27);
+    transform: rotate(360deg);
+}
+.fa-dribbble:hover{
+    background-color: rgb(243, 63, 174);
+    transform: rotate(360deg);
+}
